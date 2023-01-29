@@ -1,5 +1,5 @@
 import React from 'react'
-import CardWrapper from '../../common/Card'
+import CardWrapper from '../../common/card'
 import TextField from '../../common/form/textField'
 
 import SmallTitle from '../../common/typografy/smallTitle'
